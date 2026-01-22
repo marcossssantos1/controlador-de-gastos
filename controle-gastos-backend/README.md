@@ -1,14 +1,6 @@
-# Sistema de Controle de Gastos - COMPLETO ✅
+# Sistema de Controle de Gastos 
 
 Sistema backend profissional desenvolvido em **Java 21** com **Spring Boot 3** para controle de gastos pessoais com autenticação JWT, paginação, filtros avançados, dashboard e relatórios em PDF.
-
-## ⚡ Status: 100% IMPLEMENTADO - SEM LOMBOK
-
-✅ Todos os 6 Services criados  
-✅ Todos os 5 Controllers criados  
-✅ Testes unitários e de integração  
-✅ Documentação Swagger completa  
-✅ Pronto para compilar e executar!
 
 ## 🚀 Tecnologias
 
