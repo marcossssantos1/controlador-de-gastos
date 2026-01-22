@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.controle.service.GastoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.433 s -- in com.example.controle.service.GastoServiceTest

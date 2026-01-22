@@ -1,0 +1,23 @@
+Devido ao tamanho do projeto, os seguintes arquivos precisam ser criados manualmente:
+
+SERVICES:
+1. AuthService - Autenticação e registro
+2. UserDetailsServiceImpl - Carregamento de usuário
+3. CategoriaService - CRUD de categorias
+4. GastoService - CRUD de gastos com filtros
+5. DashboardService - Estatísticas e relatórios
+6. PdfService - Geração de PDFs
+
+CONTROLLERS:
+1. AuthController - Endpoints de login e registro
+2. CategoriaController - CRUD de categorias
+3. GastoController - CRUD de gastos com paginação e filtros
+4. DashboardController - Endpoint de dashboard
+5. RelatorioController - Download de PDFs
+
+TESTES:
+1. GastoServiceTest
+2. GastoControllerTest
+3. AuthControllerTest
+
+Vou criar esses arquivos agora...
